@@ -14,7 +14,7 @@
     
     
     
-#### Resources :
+#### Resources:
     https://stackoverflow.com/questions/4855823/get-mouse-deltas-using-python-in-linux
     https://stackoverflow.com/questions/63657650/python-get-raw-mouse-input
 
