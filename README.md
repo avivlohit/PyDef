@@ -12,7 +12,7 @@
 ## What is left to do:
    - Sample more data.
    - Configure the Data and ML to get better evaluations.
-   - Cloud and Etc(Not relevant to the Scope).
+   - Cloud and Etc(Not relevant to the scope).
     
     
     
