@@ -1,7 +1,7 @@
 # About and Goals: 
    After my first year as IT tech student. 
    
-   "Psysical Defense" for Users based on mouse movements and cardinals, with no experience in ML in the past, while data is being mined automatically from the OS.
+   "Pysical Defense" for Users based on mouse movements and cardinals, with no experience in ML in the past, while data is being mined automatically from the OS.
    The main goal is to create a extra layer of defence for Organizations and private users, where the ML model would recognize the behavior of the user and would play considering the circumstances.
     
     
